@@ -1,44 +1,45 @@
 {
-  events: [
-         {
-            eventName: "Symposium Hackathon",
-            orgName: "Google Developers Club",
-            eventDate: "11-12-2023",
-            eventTime: "9:00 A.M",
-            eventDescription: "This is a hackathon to encourage students of hacking and techs.",
-            image: "https://i.imgur.com/KXQ90mi.jpeg"
-        },
-        {
-            eventName: "Symposium Hackathon",
-            orgName: "Google Developers Club",
-            eventDate: "11-12-2023",
-            eventTime: "9:00 A.M",
-            eventDescription: "This is a hackathon to encourage students of hacking and techs.",
-            image: "https://i.imgur.com/KWDizG1.jpeg"
-        },
-        {
-            eventName: "Symposium Hackathon",
-            orgName: "Google Developers Club",
-            eventDate: "11-12-2023",
-            eventTime: "9:00 A.M",
-            eventDescription: "This is a hackathon to encourage students of hacking and techs.",
-            image: "https://i.imgur.com/enIU6S0.jpeg"
-        },
-        {
-            eventName: "Symposium Hackathon",
-            orgName: "Google Developers Club",
-            eventDate: "11-12-2023",
-            eventTime: "9:00 A.M",
-            eventDescription: "This is a hackathon to encourage students of hacking and techs.",
-            image: "https://i.imgur.com/iswZPM6.jpeg"
-        },
-        {
-            eventName: "Symposium Hackathon",
-            orgName: "Google Developers Club",
-            eventDate: "11-12-2023",
-            eventTime: "9:00 A.M",
-            eventDescription: "This is a hackathon to encourage students of hacking and techs.",
-            image: "https://i.imgur.com/ERoocVX.jpeg"
-        }
-  ]
-}
+    "events": [
+           {
+              "eventName": "Symposium Hackathon",
+              "orgName": "Google Developers Club",
+              "eventDate": "11-12-2023",
+              "eventTime": "9:00 A.M",
+              "eventDescription": "This is a hackathon to encourage students of hacking and techs.",
+              "image": "https://i.imgur.com/KXQ90mi.jpeg"
+          },
+          {
+              "eventName": "Symposium Hackathon",
+              "orgName": "Google Developers Club",
+              "eventDate": "11-12-2023",
+              "eventTime": "9:00 A.M",
+              "eventDescription": "This is a hackathon to encourage students of hacking and techs.",
+              "image": "https://i.imgur.com/KWDizG1.jpeg"
+          },
+          {
+              "eventName": "Symposium Hackathon",
+              "orgName": "Google Developers Club",
+              "eventDate": "11-12-2023",
+              "eventTime": "9:00 A.M",
+              "eventDescription": "This is a hackathon to encourage students of hacking and techs.",
+              "image": "https://i.imgur.com/enIU6S0.jpeg"
+          },
+          {
+              "eventName": "Symposium Hackathon",
+              "orgName": "Google Developers Club",
+              "eventDate": "11-12-2023",
+              "eventTime": "9:00 A.M",
+              "eventDescription": "This is a hackathon to encourage students of hacking and techs.",
+              "image": "https://i.imgur.com/iswZPM6.jpeg"
+          },
+          {
+              "eventName": "Symposium Hackathon",
+              "orgName": "Google Developers Club",
+              "eventDate": "11-12-2023",
+              "eventTime": "9:00 A.M",
+              "eventDescription": "This is a hackathon to encourage students of hacking and techs.",
+              "image": "https://i.imgur.com/ERoocVX.jpeg"
+          }
+    ]
+  }
+  
