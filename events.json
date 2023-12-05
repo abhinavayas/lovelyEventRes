@@ -1,5 +1,5 @@
 {
-    "events": [
+    "events": {
            {
               "eventName": "Symposium Hackathon",
               "orgName": "Google Developers Club",
@@ -40,6 +40,6 @@
               "eventDescription": "This is a hackathon to encourage students of hacking and techs.",
               "image": "https://i.imgur.com/ERoocVX.jpeg"
           }
-    ]
+    }
   }
   
