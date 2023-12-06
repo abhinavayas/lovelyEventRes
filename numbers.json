@@ -1,0 +1,47 @@
+[        {
+              "eventName": "Symposium",
+              "orgName": "Google Developers Club",
+              "eventDate": "11-12-2023",
+              "eventTime": "9:00 A.M",
+              "eventDescription": "This is a hackathon to encourage students of hacking and techs.",
+              "image": "https://i.imgur.com/KXQ90mi.jpeg",
+              "regURL": "https://github.com/abhinavayas/lovelyEventRes/edit/main/events.json"
+          },
+          {
+              "eventName": "Symposium Hackathon 2.0",
+              "orgName": "Google Developers Club",
+              "eventDate": "11-12-2023",
+              "eventTime": "9:00 A.M",
+              "eventDescription": "This is a hackathon to encourage students of hacking and techs.",
+              "image": "https://i.imgur.com/KWDizG1.jpeg",
+              "regURL": "https://github.com/abhinavayas/lovelyEventRes/edit/main/events.json"
+          },
+          {
+              "eventName": "Symposium Hackathon Mathew karken",
+              "orgName": "Google Developers Club",
+              "eventDate": "11-12-2023",
+              "eventTime": "9:00 A.M",
+              "eventDescription": "This is a hackathon to encourage students of hacking and techs.",
+              "image": "https://i.imgur.com/enIU6S0.jpeg",
+              "regURL": "https://github.com/abhinavayas/lovelyEventRes/edit/main/events.json"
+          },
+          {
+              "eventName": "Symposium Hackathon lantern 3.0",
+              "orgName": "Google Developers Club",
+              "eventDate": "11-12-2023",
+              "eventTime": "9:00 A.M",
+              "eventDescription": "This is a hackathon to encourage students of hacking and techs.",
+              "image": "https://i.imgur.com/iswZPM6.jpeg",
+            "regURL": "https://github.com/abhinavayas/lovelyEventRes/edit/main/events.json"
+          },
+          {
+              "eventName": "Symposium Hackathon",
+              "orgName": "Google Developers Club",
+              "eventDate": "11-12-2023",
+              "eventTime": "9:00 A.M",
+              "eventDescription": "This is a hackathon to encourage students of hacking and techs.",
+              "image": "https://i.imgur.com/ERoocVX.jpeg",
+              "regURL": "https://github.com/abhinavayas/lovelyEventRes/edit/main/events.json"
+          }
+]
+  
