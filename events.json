@@ -5,7 +5,9 @@
               "eventTime": "9:00 A.M",
               "eventDescription": "This is a hackathon to encourage students of hacking and techs.",
               "image": "https://i.imgur.com/KXQ90mi.jpeg",
-              "regURL": "https://github.com/abhinavayas/lovelyEventRes/edit/main/events.json"
+              "regURL": "https://github.com/abhinavayas/lovelyEventRes/edit/main/events.json",
+              "insta" : "https://www.instagram.com/",
+              "wp": "https://whatsapp.com"
           },
           {
               "eventName": "Symposium Hackathon 2.0",
@@ -14,7 +16,9 @@
               "eventTime": "9:00 A.M",
               "eventDescription": "This is a hackathon to encourage students of hacking and techs.",
               "image": "https://i.imgur.com/KWDizG1.jpeg",
-              "regURL": "https://github.com/abhinavayas/lovelyEventRes/edit/main/events.json"
+              "regURL": "https://github.com/abhinavayas/lovelyEventRes/edit/main/events.json",
+              "insta" : "https://www.instagram.com/",
+              "wp": "https://whatsapp.com"
           },
           {
               "eventName": "Symposium Hackathon Mathew karken",
@@ -23,7 +27,10 @@
               "eventTime": "9:00 A.M",
               "eventDescription": "This is a hackathon to encourage students of hacking and techs.",
               "image": "https://i.imgur.com/enIU6S0.jpeg",
-              "regURL": "https://github.com/abhinavayas/lovelyEventRes/edit/main/events.json"
+              "regURL": "https://github.com/abhinavayas/lovelyEventRes/edit/main/events.json",
+              "insta" : "https://www.instagram.com/",
+              "whatsapp": "https://web.whatsapp.com/",
+              "wp": "https://whatsapp.com"
           },
           {
               "eventName": "Symposium Hackathon lantern 3.0",
@@ -32,7 +39,10 @@
               "eventTime": "9:00 A.M",
               "eventDescription": "This is a hackathon to encourage students of hacking and techs.",
               "image": "https://i.imgur.com/iswZPM6.jpeg",
-            "regURL": "https://github.com/abhinavayas/lovelyEventRes/edit/main/events.json"
+              "regURL": "https://github.com/abhinavayas/lovelyEventRes/edit/main/events.json",
+              "insta" : "https://www.instagram.com/",
+              "whatsapp": "https://web.whatsapp.com/",
+              "wp": "https://whatsapp.com"
           },
           {
               "eventName": "Symposium Hackathon",
@@ -41,7 +51,10 @@
               "eventTime": "9:00 A.M",
               "eventDescription": "This is a hackathon to encourage students of hacking and techs.",
               "image": "https://i.imgur.com/ERoocVX.jpeg",
-              "regURL": "https://github.com/abhinavayas/lovelyEventRes/edit/main/events.json"
+              "regURL": "https://github.com/abhinavayas/lovelyEventRes/edit/main/events.json",
+              "insta" : "https://www.instagram.com/",
+              "whatsapp": "https://web.whatsapp.com/",
+              "wp": "https://whatsapp.com"
           }
 ]
   
